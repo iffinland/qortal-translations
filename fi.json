@@ -1,10 +1,10 @@
 {
   "__locale_name__": "Finnish",
 
-  "electron_translate_1": "Show Qortal UI",
-  "electron_translate_2": "Quit",
-  "electron_translate_3": "Update available",
-  "electron_translate_4": "A new Qortal UI version is available. Do you want to download it?",
+  "electron_translate_1": "Näytä Qortal-UI (käyttöliittymä)",
+  "electron_translate_2": "Lopettaat",
+  "electron_translate_3": "Päivitys saatavilla",
+  "electron_translate_4": "Uusi Qortal UI -versio on saatavilla. Haluatko ladata sen?",
   "electron_translate_5": "INSTALL NOW",
   "electron_translate_6": "MAYBE LATER",
   "electron_translate_7": "Update ready to install",
