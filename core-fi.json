@@ -162,11 +162,11 @@
 		"confirmlogout": "Haluatko varmasti kirjautua ulos?"
 	},
 	"fragfile": {
-		"selectfile": "Vali fail",
-		"dragfile": "või lohista varukoopia fail siia"
+		"selectfile": "Valitse tiedosto",
+		"dragfile": "tai vedä varmuuskopiotiedosto tähän"
 	},
 	"settings": {
-		"generalinfo": "Üldine konto teave",
+		"generalinfo": "Yleiset tilitiedot",
 		"address": "Aadress",
 		"publickey": "Avalik võti",
 		"settings": "Seaded",
